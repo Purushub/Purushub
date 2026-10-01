@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=PURUSHUB&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Model%20Trainer%20%C2%B7%20Course%20Architect%20%C2%B7%20Brand%20Storyteller&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=PURUSHUB&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Model%20Trainer%20%C2%B7%20Product%20Manager%20%C2%B7%20Brand%20Storyteller&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Training+AI+models+that+actually+ship;Building+HTML+courses+with+live+simulations;Turning+internships+into+brand+experiences;Welcome+to+the+lab.+Grab+a+coffee.&font=Fira+Code&center=true&width=760&height=50&color=A9F1DF&vCenter=true&size=22&pause=1200&duration=3000"/>
